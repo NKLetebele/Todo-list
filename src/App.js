@@ -45,7 +45,7 @@ function App() {
     <div className="container mx-auto flex justify-center items-center p-4">
       <div className="w-10/12 max-md:w-full">
       <div style={{ display: 'flex' }}>
-          <h1 style={{ fontSize: '70px' }}>Todo List</h1>
+          <h1 style={{ fontSize: '50px' }}>Todo List</h1>
           <img
             width="94"
             height="94"
