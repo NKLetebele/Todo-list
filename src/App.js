@@ -70,7 +70,7 @@ function App() {
             Add task
           </button>
         </form>
-        <ul className="js-todo-list" role="list">
+        <ul className="js-todo-list">
           {todos.sort((a, b) => a.completed - b.completed).map((todo) => (
             <li
               key={todo.id}
